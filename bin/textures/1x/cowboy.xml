@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e490640a0f8eb10924db76d8689486c0:1/1$ -->
+<TextureAtlas imagePath="cowboy.png">
+    <SubTexture name="bg" x="3" y="3" width="1024" height="768"/>
+    <SubTexture name="card_1" x="583" y="773" width="114" height="114"/>
+    <SubTexture name="card_10" x="467" y="889" width="114" height="114"/>
+    <SubTexture name="card_2" x="467" y="773" width="114" height="114"/>
+    <SubTexture name="card_3" x="351" y="889" width="114" height="114"/>
+    <SubTexture name="card_4" x="351" y="773" width="114" height="114"/>
+    <SubTexture name="card_5" x="235" y="889" width="114" height="114"/>
+    <SubTexture name="card_6" x="235" y="773" width="114" height="114"/>
+    <SubTexture name="card_7" x="119" y="889" width="114" height="114"/>
+    <SubTexture name="card_8" x="119" y="773" width="114" height="114"/>
+    <SubTexture name="card_9" x="3" y="889" width="114" height="114"/>
+    <SubTexture name="card_cover" x="3" y="773" width="114" height="114"/>
+    <SubTexture name="hero" x="1029" y="3" width="502" height="587"/>
+</TextureAtlas>

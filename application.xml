@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.9">
+  <id>com.pukman.matchright2</id>
+  <versionNumber>1.0.3</versionNumber>
+  <filename>Match Right 2</filename>
+  <name>Match Right 2</name>
+ 
+  <initialWindow>
+    <content>MatchingGame.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>direct</renderMode>
+    <autoOrients>false</autoOrients>
+  </initialWindow>
+  
+  <icon>
+    <image72x72>icons/72.png</image72x72>
+    <image144x144>icons/144.png</image144x144>
+    <image76x76>icons/76.png</image76x76>
+    <image152x152>icons/152.png</image152x152>
+    <image512x512>icons/512.png</image512x512>
+    <image1024x1024>icons/1024.png</image1024x1024>
+    <image29x29>icons/29.png</image29x29>
+    <image58x58>icons/58.png</image58x58>
+  </icon>
+  
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <iPhone>
+    <InfoAdditions><![CDATA[<key>UIPrerenderedIcon</key>
+<true />
+<key>UIDeviceFamily</key>
+<array>
+	<string>2</string>
+</array>]]></InfoAdditions>
+  </iPhone>  
+  <supportedProfiles>mobileDevice</supportedProfiles>
+  
+  <!--<extensions>
+    <extensionID>com.sticksports.nativeExtensions.GameCenter</extensionID>
+  </extensions>-->
+  
+</application>

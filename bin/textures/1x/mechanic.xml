@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eba999bcf37e7cc7bf0296db37b4f774:1/1$ -->
+<TextureAtlas imagePath="mechanic.png">
+    <SubTexture name="bg" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="card_1" x="466" y="888" width="114" height="114"/>
+    <SubTexture name="card_10" x="466" y="772" width="114" height="114"/>
+    <SubTexture name="card_2" x="350" y="888" width="114" height="114"/>
+    <SubTexture name="card_3" x="350" y="772" width="114" height="114"/>
+    <SubTexture name="card_4" x="234" y="888" width="114" height="114"/>
+    <SubTexture name="card_5" x="234" y="772" width="114" height="114"/>
+    <SubTexture name="card_6" x="118" y="888" width="114" height="114"/>
+    <SubTexture name="card_7" x="118" y="772" width="114" height="114"/>
+    <SubTexture name="card_8" x="2" y="888" width="114" height="114"/>
+    <SubTexture name="card_9" x="2" y="772" width="114" height="114"/>
+    <SubTexture name="hero" x="1028" y="2" width="535" height="638"/>
+</TextureAtlas>

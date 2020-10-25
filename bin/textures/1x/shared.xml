@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bf6206db60f2840d1732258ad594c114:1/1$ -->
+<TextureAtlas imagePath="shared.png">
+    <SubTexture name="alien_char_big" x="143" y="805" width="127" height="141"/>
+    <SubTexture name="alien_char_icon" x="124" y="948" width="82" height="91"/>
+    <SubTexture name="alien_char_small" x="809" y="801" width="105" height="117"/>
+    <SubTexture name="back_btn" x="124" y="1041" width="64" height="64"/>
+    <SubTexture name="boy_char_big" x="444" y="608" width="134" height="134"/>
+    <SubTexture name="boy_char_icon" x="560" y="833" width="87" height="87"/>
+    <SubTexture name="boy_char_small" x="817" y="688" width="111" height="111"/>
+    <SubTexture name="cakeboy_trophy" x="2" y="807" width="123" height="137"/>
+    <SubTexture name="cakeboy_trophy_icon" x="339" y="887" width="85" height="92"/>
+    <SubTexture name="candy_trophy" x="350" y="568" width="92" height="139"/>
+    <SubTexture name="candy_trophy_icon" x="272" y="821" width="65" height="82"/>
+    <SubTexture name="card_cover" x="444" y="744" width="114" height="114"/>
+    <SubTexture name="cat_char_big" x="830" y="555" width="143" height="131"/>
+    <SubTexture name="cat_char_icon" x="350" y="709" width="92" height="85"/>
+    <SubTexture name="cat_char_small" x="580" y="608" width="118" height="108"/>
+    <SubTexture name="clean_btn" x="208" y="984" width="64" height="64"/>
+    <SubTexture name="dog_char_big" x="2" y="666" width="139" height="139"/>
+    <SubTexture name="dog_char_icon" x="350" y="796" width="90" height="89"/>
+    <SubTexture name="dog_char_small" x="700" y="608" width="115" height="114"/>
+    <SubTexture name="firework" x="978" y="34" width="16" height="23"/>
+    <SubTexture name="game_title" x="2" y="2" width="974" height="112" frameX="-3" frameY="-6" frameWidth="980" frameHeight="124"/>
+    <SubTexture name="girl_char_big" x="143" y="666" width="139" height="137"/>
+    <SubTexture name="girl_char_icon" x="930" y="688" width="90" height="88"/>
+    <SubTexture name="girl_char_small" x="580" y="718" width="115" height="113"/>
+    <SubTexture name="info_btn" x="339" y="981" width="64" height="64"/>
+    <SubTexture name="left_player_label" x="2" y="568" width="346" height="47" frameX="-27" frameY="-11" frameWidth="400" frameHeight="65"/>
+    <SubTexture name="level_cover" x="2" y="946" width="120" height="100"/>
+    <SubTexture name="list_btn" x="426" y="953" width="64" height="64"/>
+    <SubTexture name="lock" x="272" y="905" width="65" height="77"/>
+    <SubTexture name="lollipop_trophy" x="930" y="778" width="89" height="137"/>
+    <SubTexture name="lollipop_trophy_icon" x="284" y="666" width="64" height="87"/>
+    <SubTexture name="next_btn" x="530" y="922" width="64" height="64"/>
+    <SubTexture name="one_player_label" x="2" y="617" width="334" height="47" frameX="-9" frameY="-11" frameWidth="350" frameHeight="65"/>
+    <SubTexture name="pause_btn" x="715" y="908" width="64" height="64"/>
+    <SubTexture name="play_btn" x="916" y="917" width="104" height="104"/>
+    <SubTexture name="replay_btn" x="649" y="908" width="64" height="64"/>
+    <SubTexture name="right_player_label" x="444" y="559" width="380" height="47" frameX="-11" frameY="-11" frameWidth="400" frameHeight="65"/>
+    <SubTexture name="robot_char_big" x="886" y="274" width="134" height="141"/>
+    <SubTexture name="robot_char_icon" x="442" y="860" width="86" height="91"/>
+    <SubTexture name="robot_char_small" x="697" y="724" width="110" height="116"/>
+    <SubTexture name="sound_off_btn" x="715" y="842" width="64" height="64"/>
+    <SubTexture name="sound_on_btn" x="649" y="842" width="64" height="64"/>
+    <SubTexture name="star" x="978" y="2" width="30" height="30"/>
+    <SubTexture name="star_btn" x="284" y="755" width="64" height="64"/>
+    <SubTexture name="start_btn" x="886" y="417" width="134" height="136"/>
+    <SubTexture name="timer" x="886" y="116" width="136" height="156" frameX="0" frameY="0" frameWidth="138" frameHeight="158"/>
+    <SubTexture name="two_players_label" x="444" y="508" width="384" height="49" frameX="-8" frameY="-9" frameWidth="400" frameHeight="65"/>
+    <SubTexture name="window_big" x="2" y="116" width="440" height="450"/>
+    <SubTexture name="window_small" x="444" y="116" width="440" height="390"/>
+</TextureAtlas>
